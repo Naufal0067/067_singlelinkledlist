@@ -106,3 +106,14 @@ void traverse() {
 	}
 }
 
+void serachData() {
+	if (listEmpty()) {
+		cout << "list Kosong" << endl;
+		system("pause");
+		system("cls");
+		return;
+	}
+	else {
+		int nim;
+	}
+}
